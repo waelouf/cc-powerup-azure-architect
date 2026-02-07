@@ -7,7 +7,7 @@
 
 > Expert guidance for building Azure cloud infrastructure and DevOps pipelines from scratch through production. Full lifecycle coverage - provision, configure, deploy, monitor, secure, optimize.
 
-**Part of [Claude Code Powerups](https://github.com/waelouf/claude-code-powerups)** - a marketplace of specialized plugins that extend Claude Code's capabilities.
+>**Part of [Claude Code Powerups](https://github.com/waelouf/claude-code-powerups)** - a marketplace of specialized plugins that extend Claude Code's capabilities.
 
 ## Overview
 
