@@ -360,6 +360,8 @@ resource "azurerm_service_plan" "main" {
 
 ✅ **Full lifecycle** - Build → Debug → Optimize → Ship
 
+✅ **Standards compliant** - Pure XML structure following Agent Skills best practices
+
 ## Common Workflows
 
 ### Daily Development
@@ -441,13 +443,28 @@ This powerup is part of the [Claude Code Powerups](https://github.com/waelouf/cl
 
 This powerup is part of the Azure DevOps architect expertise collection. For issues or suggestions, please provide feedback through Claude Code.
 
-## Version
+## Technical Details
+
+### Architecture
+- **Structure**: Three-layer progressive disclosure (SKILL.md → commands → workflows → references)
+- **Compliance**: Pure XML structure in all reference files (no markdown headings)
+- **Lines of Code**: 22,241 lines of expert guidance
+- **Files**: 45 total (1 skill, 13 commands, 13 workflows, 15 references, 3 docs)
+
+### Version Information
 
 **Version**: 1.0.0
-**Last Updated**: January 2025
+**Released**: February 2025
 **Azure API Versions**: 2023-2024 stable releases
 **Terraform Provider**: azurerm 3.x+
 **Bicep**: 0.x latest
+**Knowledge Cutoff**: January 2025
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2025 Claude Code Powerups Contributors
 
 ---
 
