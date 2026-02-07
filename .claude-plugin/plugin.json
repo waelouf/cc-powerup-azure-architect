@@ -1,5 +1,5 @@
 {
-    "name": "Azure Architect Powerup",
+    "name": "azure-architect-powerup",
     "description": "Expert Azure cloud architecture and DevOps guidance. Part of Claude Code Powerups marketplace (https://github.com/waelouf/claude-code-powerups). Build production-grade Azure infrastructure with Bicep/Terraform, CI/CD pipelines, and comprehensive best practices.",
     "version": "1.0.0",
     "author": {
