@@ -1,5 +1,10 @@
 # Azure Architect Powerup
 
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/waelouf/cc-powerup-azure-architect/releases)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Powerup-orange.svg)](https://github.com/waelouf/claude-code-powerups)
+[![Azure](https://img.shields.io/badge/Azure-Expert%20Guidance-0078D4.svg?logo=microsoftazure)](https://azure.microsoft.com)
+
 > Expert guidance for building Azure cloud infrastructure and DevOps pipelines from scratch through production. Full lifecycle coverage - provision, configure, deploy, monitor, secure, optimize.
 
 **Part of [Claude Code Powerups](https://github.com/waelouf/claude-code-powerups)** - a marketplace of specialized plugins that extend Claude Code's capabilities.
